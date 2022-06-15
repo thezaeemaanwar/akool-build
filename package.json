@@ -1,0 +1,26 @@
+{
+  "name": "akool-documentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thezaeemaanwar/akool-documentation.git"
+  },
+  "author": "Zaeema Anwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thezaeemaanwar/akool-documentation/issues"
+  },
+  "homepage": "https://github.com/thezaeemaanwar/akool-documentation#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "keywords": [],
+  "description": ""
+}
